@@ -1,27 +1,69 @@
-# ВАШЕ_ИМЯ
+# Anton Anishchenko
 
-Data Science • Machine Learning • Neural Data
+Machine Learning • Data Science • AI
 
-Коротко обо мне: создание ML-моделей и анализ нейронных данных.
-
-Текущие интересы:
-- deep learning
-- компьютерные науки
-- анализ данных
-- программирование
+Building systems that learn from data.
 
 ---
 
-**Технологии:** `Python` `Pandas` `NumPy` `Scikit-Learn` `PyTorch` `SQL` `Git`
+### About
+
+I'm a Data Science student interested in machine learning, deep learning, and computational neuroscience.
+
+Currently exploring how data, algorithms, and intelligent systems can be used to solve real-world problems.
 
 ---
 
-**Проекты:** обработка нейросигналов, предиктивная аналитика, автоматизация ETL-процессов
+### Current Focus
+
+* Machine Learning
+* Deep Learning
+* Data Analysis
+* Computer Vision
+* MLOps
+* Computational Neuroscience
 
 ---
 
-**Обучение:** машинное обучение, нейронные сети, анализ данных, MLOps
+### Tech
+
+```text
+Python      PyTorch      Scikit-Learn
+Pandas      NumPy        SciPy
+SQL         Git          Linux
+```
 
 ---
 
-**Контакт:** Telegram: @ваш_ник | Email: ваш_email@example.com
+### Currently Building
+
+* Machine Learning projects
+* Data analysis pipelines
+* Neural data experiments
+* Research-oriented AI projects
+
+---
+
+### Learning Roadmap
+
+```text
+Data Science
+    ├── Machine Learning
+    ├── Deep Learning
+    ├── MLOps
+    ├── Software Engineering
+    └── AI Research
+```
+
+---
+
+### Contact
+
+Telegram → @your_username
+
+---
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</p>
