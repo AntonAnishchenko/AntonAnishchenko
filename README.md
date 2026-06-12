@@ -61,6 +61,8 @@ Data Science
 Telegram → @anicshenko
 ---
 
+### Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntonAnishchenko&show_icons=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonAnishchenko&layout=compact&hide_border=true" />
