@@ -1,15 +1,27 @@
-# Anton Anishchenko
+# ВАШЕ_ИМЯ
 
-Machine Learning • Data Science • Computational Neuroscience
+Data Science • Machine Learning • Neural Data
 
-Building things with Python.
+Коротко обо мне: создание ML-моделей и анализ нейронных данных.
 
-Currently exploring:
-- machine learning
+Текущие интересы:
 - deep learning
-- neural interfaces
-- data-intensive systems
+- компьютерные науки
+- анализ данных
+- программирование
 
-```
-Python • PyTorch • Pandas • NumPy • SQL • Linux • Git
-```
+---
+
+**Технологии:** `Python` `Pandas` `NumPy` `Scikit-Learn` `PyTorch` `SQL` `Git`
+
+---
+
+**Проекты:** обработка нейросигналов, предиктивная аналитика, автоматизация ETL-процессов
+
+---
+
+**Обучение:** машинное обучение, нейронные сети, анализ данных, MLOps
+
+---
+
+**Контакт:** Telegram: @ваш_ник | Email: ваш_email@example.com
