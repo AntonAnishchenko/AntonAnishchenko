@@ -56,11 +56,6 @@ Data Science
 
 ---
 
-### Contact
-
-Telegram → @anicshenko
----
-
 ### Statistics
 
 <p align="center">
@@ -71,3 +66,9 @@ Telegram → @anicshenko
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonAnishchenko&hide_border=true" />
 </p>
+
+---
+
+### Contact
+
+Telegram → @anicshenko
