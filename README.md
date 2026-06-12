@@ -8,7 +8,7 @@ Building systems that learn from data.
 
 ### About
 
-I'm a Data Science student interested in machine learning, deep learning, and computational neuroscience.
+I'm a Data Science student interested in machine learning, deep learning.
 
 Currently exploring how data, algorithms, and intelligent systems can be used to solve real-world problems.
 
@@ -21,7 +21,6 @@ Currently exploring how data, algorithms, and intelligent systems can be used to
 * Data Analysis
 * Computer Vision
 * MLOps
-* Computational Neuroscience
 
 ---
 
@@ -37,9 +36,8 @@ SQL         Git          Linux
 
 ### Currently Building
 
-* Machine Learning projects
 * Data analysis pipelines
-* Neural data experiments
+* Machine Learning projects
 * Research-oriented AI projects
 
 ---
@@ -48,6 +46,7 @@ SQL         Git          Linux
 
 ```text
 Data Science
+    ├── Data Analytics
     ├── Machine Learning
     ├── Deep Learning
     ├── MLOps
@@ -59,11 +58,10 @@ Data Science
 
 ### Contact
 
-Telegram → @your_username
-
+Telegram → @anicshenko
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=    AntonAnishchenko&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=    AntonAnishchenko&layout=compact&hide_border=true" />
 </p>
