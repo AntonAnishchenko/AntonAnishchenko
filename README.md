@@ -62,6 +62,10 @@ Telegram → @anicshenko
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=    AntonAnishchenko&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=    AntonAnishchenko&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonAnishchenko&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonAnishchenko&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonAnishchenko&hide_border=true" />
 </p>
